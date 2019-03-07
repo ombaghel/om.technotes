@@ -1,0 +1,19 @@
+Other day Elevator questions were hot topic in Elevator:
+
+Case 1: No acceleration of elevator
+FN = +W = +mg.
+
+Case 2: going up & speeding up (acceleration a is positive (up))
+FN =mg+ma, which is GREATER than the true weight.
+
+Case 3: going up & slowing down (acceleration a is negative (down))
+FN =mg - ma
+
+Case 4: going down & slowing down (acceleration a is positive (up))
+FN =mg+ma, 
+
+Case 5: going down & speeding up (acceleration a is negative (down))
+FN =mg - ma, which is LESS than the true weight
+
+Case 6: freefall (a = -g)
+
