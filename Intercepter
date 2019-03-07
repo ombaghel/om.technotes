@@ -1,0 +1,10 @@
+Important piece of code sitting between communication:
+if it has key and power it can find whats going on in discussion.
+
+Simple:
+Request intercept
+Response intercept
+
+for headerMap via http entries{
+   print (entry.getKey(), entry.getValue())
+}
